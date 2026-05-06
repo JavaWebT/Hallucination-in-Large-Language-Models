@@ -1,4 +1,4 @@
-<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/04b8bcb1-4c01-4111-8fbd-ce8b0064eeaf" /># Hallucination-in-Large-Language-Models
+# Hallucination-in-Large-Language-Models
 大语言模型的幻觉
 <img width="913" height="855" alt="image" src="https://github.com/user-attachments/assets/43b549c8-aaf1-46df-b4b7-5ccbd255e691" />
 ### 幻觉的分类
